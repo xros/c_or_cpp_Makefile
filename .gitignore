@@ -1,0 +1,7 @@
+*.swp
+*.swo
+*.swq
+*~
+*.o
+# we don't want this executable in source codes
+helloworld
